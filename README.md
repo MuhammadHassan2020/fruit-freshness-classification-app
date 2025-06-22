@@ -23,6 +23,17 @@ Manual sorting of fruits based on freshness is time-consuming and inconsistent. 
 - Clean, user-friendly web interface
 - Efficient and fast classification using a lightweight model
 
+## 🎯 Future Work
+Extend to more fruit types (bananas, apples, etc.)
+
+Multi-class classification (Fresh, Slightly Spoiled, Rotten)
+
+Add real-time camera input for live predictions
+
+Mobile-friendly UI
+
+## 🙋‍♂️ Why This Project?
+This project combines deep learning, image processing, and real-world impact. It demonstrates how AI can be applied in agriculture and retail to ensure quality and efficiency.
 
 ## 🌐 Tech Stack
 
@@ -35,6 +46,7 @@ Manual sorting of fruits based on freshness is time-consuming and inconsistent. 
 ## 🖼 App Preview
 
 ![Web App Screenshot](webapp.png)
+
 
 
 ## ⚙️ How to Run Locally
